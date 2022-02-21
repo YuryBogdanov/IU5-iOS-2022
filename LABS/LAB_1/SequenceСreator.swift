@@ -42,6 +42,6 @@ final class SequenceСreator {
         //
         // Код пишем тут
         //
-        return []
+        return [1,2]
     }
 }
